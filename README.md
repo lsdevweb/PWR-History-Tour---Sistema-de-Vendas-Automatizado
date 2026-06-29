@@ -10,7 +10,21 @@ Este projeto consolida a aplicação prática dos conceitos fundamentais da lóg
 O projeto foi desenvolvido de forma colaborativa, dividindo o ecossistema em módulos específicos onde cada integrante ficou responsável por uma engrenagem vital do motor (como recepção, banco de dados, fluxo de faturamento e geração de relatórios). Essa sinergia foi fundamental para aplicar na prática conceitos de versionamento de ideias, divisão de tarefas e escopo de funções de alto nível.
 
 ---
+## 🎥 Demonstração em Vídeo
 
+Aqui está o sistema rodando completo diretamente no terminal Linux:
+
+<video src="midia_pwr/execute_terminal.mp4" width="100%" controls></video>
+
+---
+
+## 📸 Capturas de Tela (Interface do Usuário)
+
+Veja abaixo como as telas de navegação e o comprovante final são exibidos de forma limpa:
+
+![Menu Principal e Cidades](midia_pwr/imagem1pwr.jpeg)
+
+![Faturamento e Comprovante](midia_pwr/imagem2pwr.jpeg)
 ## ⚡ Os Dois Fluxos do Sistema
 
 Para garantir uma excelente experiência comercial e flexibilidade de atendimento, a lógica do programa foi mapeada e dividida em **dois fluxos principais independentes**:
