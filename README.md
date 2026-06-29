@@ -12,9 +12,9 @@ O projeto foi desenvolvido de forma colaborativa, dividindo o ecossistema em mó
 ---
 ## 🎥 Demonstração em Vídeo
 
-Aqui está o sistema rodando completo diretamente no terminal Linux:
+## 🎥 Demonstração em Vídeo
 
-<video src="midia_pwr/execute_terminal.mp4" width="100%" controls></video>
+▶️ [Clique aqui para assistir ao vídeo do sistema rodando no Terminal](midia_pwr/execute_terminal.mp)
 
 ---
 
