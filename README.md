@@ -14,7 +14,7 @@ O projeto foi desenvolvido de forma colaborativa, dividindo o ecossistema em mó
 
 ## 🎥 Demonstração em Vídeo
 
-▶️ [Clique aqui para assistir ao vídeo do sistema rodando no Terminal](midia_pwr/execute_terminal.mp)
+▶️ [Clique aqui para assistir ao vídeo do sistema rodando no Terminal](https://raw.githubusercontent.com/lsdevweb/PWR-History-Tour---Sistema-de-Vendas-Automatizado/main/midia_pwr/execute_terminal.mp4)
 
 ---
 
