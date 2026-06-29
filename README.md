@@ -10,14 +10,6 @@ Este projeto consolida a aplicação prática dos conceitos fundamentais da lóg
 O projeto foi desenvolvido de forma colaborativa, dividindo o ecossistema em módulos específicos onde cada integrante ficou responsável por uma engrenagem vital do motor (como recepção, banco de dados, fluxo de faturamento e geração de relatórios). Essa sinergia foi fundamental para aplicar na prática conceitos de versionamento de ideias, divisão de tarefas e escopo de funções de alto nível.
 
 ---
-## 🎥 Demonstração em Vídeo
-
-## 🎥 Demonstração em Vídeo
-
-▶️ [Clique aqui para assistir ao vídeo do sistema rodando no Terminal](https://raw.githubusercontent.com/lsdevweb/PWR-History-Tour---Sistema-de-Vendas-Automatizado/main/midia_pwr/execute_terminal.mp4)
-
----
-
 ## 📸 Capturas de Tela (Interface do Usuário)
 
 Veja abaixo como as telas de navegação e o comprovante final são exibidos de forma limpa:
